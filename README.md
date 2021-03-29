@@ -5,7 +5,7 @@ statistical models
 <p align="left">
 <a href="https://twitter.com/@alxguido" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@alxguido" height="30" width="40" /></a>
 <a href="https://instagram.com/alxguido" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@alxguido" height="30" width="40" /></a>
-<a href="https://discord.gg/#5886" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#5886" height="30" width="40" /></a>
+<a href="https://discord.gg/AlexGuido#5886" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#5886" height="30" width="40" /></a>
 </p>
 
 
