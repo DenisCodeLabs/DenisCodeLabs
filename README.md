@@ -1,4 +1,4 @@
-I'm Alexander Guido and i am interested in solving analytical projects creating and implementing algorithms with
+I'm Alexander Guido and i'm interested in solving analytical projects creating and implementing algorithms with
 statistical models
 
 
