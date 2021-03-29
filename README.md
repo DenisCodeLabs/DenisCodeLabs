@@ -1,4 +1,4 @@
-I am interested in analytical projects creating and implementing algorithms with
+I am interested in solving analytical projects creating and implementing algorithms with
 statistical models
 
 <!---
