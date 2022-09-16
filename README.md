@@ -1,5 +1,4 @@
-I'm Alexander Guido and i'm interested in solving analytical projects creating and implementing algorithms with
-statistical models
+Soy Matemático aplicado y científico en computación de la UNAM. Colaboré en un software de código abierto el cual es un traductor de lenguas originarias que funciona con modelos de aprendizaje por refuerzo y supervisado de machine learning en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas. También colaboré en la empresa de un  actuario en proyectos como portafolios de inversión, análisis de riesgos y valuación de activos. 
 
 
 
