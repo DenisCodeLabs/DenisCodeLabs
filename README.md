@@ -1,5 +1,6 @@
-Soy Matemático aplicado y científico en computación de la UNAM. Colaboré en un software de código abierto el cual es un traductor de lenguas originarias que funciona con modelos de aprendizaje por refuerzo y supervisado de machine learning en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas. También colaboré en la empresa de un  actuario en proyectos como portafolios de inversión, análisis de riesgos y valuación de activos. 
+Soy Matemático aplicado y científico en computación de la UNAM. Colaboré en un software de código abierto el cual es un traductor de lenguas originarias que funciona con modelos de aprendizaje por refuerzo y supervisado de machine learning en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas. También colaboré en proyectos de portafolios de inversión, análisis de riesgos y valuación de activos. 
 
+Actualmente trabajo en el sector de telecomunicaciones como científico de datos y desarrollador Backend, esto porque la empresa tiene un software en la nube el cual es un tarificador de llamadas en el que se controla y optimiza el gasto telefónico de los clientes. 
 
 
 
