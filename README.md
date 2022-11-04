@@ -1,6 +1,6 @@
-Soy Matemático aplicado y científico en computación de la UNAM. Colaboré en un software de código abierto el cual es un traductor de lenguas originarias que funciona con modelos de aprendizaje por refuerzo y supervisado de machine learning en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas. También colaboré en proyectos de portafolios de inversión, análisis de riesgos y valuación de activos. 
+Soy Matemático aplicado y científico en computación de la UNAM, colaborador en el desarrollo de un traductor de lenguas originarias que funciona con modelos de aprendizaje por refuerzo y supervisado de machine learning en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas. He trabajado en el sector de telecomunicaciones como científico de datos y desarrollador Backend.
 
-Actualmente trabajo en el sector de telecomunicaciones como científico de datos y desarrollador Backend.
+Actualmente soy Cloud Engineer certificado por Google Cloud y Microsoft Azure
 
 
 
