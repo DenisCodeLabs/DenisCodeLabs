@@ -1,4 +1,5 @@
 Soy colaborador en el desarrollo de un traductor de lenguas originarias que funciona con modelos de aprendizaje por refuerzo y supervisado de machine learning en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas. 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuido)](https://github.com/anuraghazra/github-readme-stats)
 
 
