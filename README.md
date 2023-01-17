@@ -5,7 +5,13 @@ Soy colaborador en el desarrollo de un traductor de lenguas originarias que func
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuido&show_icons=true&theme=transparent)
 
 
-
+# Work experience is required
+roles:
+ - title: Senior Engineer
+   start: 2012
+   end: Ongoing
+   employer: Covestor
+   description: Covestor is an in
 
 
 
