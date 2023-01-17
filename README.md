@@ -9,13 +9,10 @@ Matemáticas Aplicadas y Computación
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuido&show_icons=true&theme=transparent)
 
 
-# Experiencia profesional
-roles:
- - title: Senior Engineer
-   start: 2012
-   end: Ongoing
-   employer: Covestor
-   description: Covestor is an in
+## Experiencia profesional
+### Sye Software
+Cloud Engineer – Data Engineer	
+Tecnologías:  Azure cloud, Python, Docker, Kubernetes, sql.
 
 
 
