@@ -3,7 +3,7 @@
 Soy colaborador en el desarrollo de un traductor de lenguas originarias que funciona con modelos de aprendizaje por refuerzo y supervisado de machine learning en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas. 
 
 ## Educación
-###Universidad Nacional Autónoma de México </br>
+### Universidad Nacional Autónoma de México </br>
 Matemáticas Aplicadas y Computación
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuido&show_icons=true&theme=transparent)
@@ -12,8 +12,13 @@ Matemáticas Aplicadas y Computación
 ## Experiencia profesional
 #### Sye Software
 Cloud Engineer – Data Engineer	</br>
-Tecnologías:  Azure cloud, Python, Docker, Kubernetes, sql.
+Tecnologías:  Azure cloud, Python, Docker, Kubernetes, sql. </br>
+Evaluación y migración de sistemas y bases de datos locales a Microsoft Azure Cloud. Asesoramiento a clientes en servicios de almacenamiento y configuración de procesos de red y seguridad.
 
+#### Instituto de investigaciones en matemáticas aplicadas y en sistemas     
+Software Intern – Deep Learning Team	</br>
+Tecnologias: Python, Docker, SSH, bash Script, Git, Tensorflow, Hadoop </br>
+Colaborador del proyecto Traductor automático de lenguas originarias con deep learning, Diseñé algoritmos de optimización y escalabilidad con Hadoop para el entrenamiento de modelos supervisados, administré la instalación de Contenedores NVIDIA en servidores con máquinas Linux usando el protocolo SSH para conexiones y entrenamientos remotos.
 
 
 <p align="left">
