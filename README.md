@@ -9,7 +9,7 @@ Matemáticas Aplicadas y Computación
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuido&show_icons=true&theme=transparent)
 
 
-# Work experience is required
+# Experiencia profesional
 roles:
  - title: Senior Engineer
    start: 2012
