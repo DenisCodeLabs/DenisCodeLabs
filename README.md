@@ -5,8 +5,8 @@ Soy colaborador en el desarrollo de un traductor de lenguas originarias que func
 ## Educación
 ### Universidad Nacional Autónoma de México </br>
 Matemáticas Aplicadas y Computación
+</br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuido&show_icons=true&theme=transparent)
 
 
 ## Experiencia profesional
