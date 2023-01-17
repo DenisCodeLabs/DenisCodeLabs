@@ -1,4 +1,4 @@
-#Alexander Guido
+# Alexander Guido
 
 Soy colaborador en el desarrollo de un traductor de lenguas originarias que funciona con modelos de aprendizaje por refuerzo y supervisado de machine learning en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas. 
 
