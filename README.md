@@ -10,7 +10,7 @@ Matemáticas Aplicadas y Computación
 
 
 ## Experiencia profesional
-#### Sye Software    Nov 2022 – Actual
+#### Sye Software    </br>Nov 2022 – Actual
 Cloud Engineer – Data Engineer	</br>
 Tecnologías:  Azure cloud, Python, Docker, Kubernetes, sql. </br>
 Evaluación y migración de sistemas y bases de datos locales a Microsoft Azure Cloud. Asesoramiento a clientes en servicios de almacenamiento y configuración de procesos de red y seguridad.
