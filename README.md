@@ -9,7 +9,7 @@ Matemáticas Aplicadas y Computación
 (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 (https://img.shields.io/twitter/follow/AlxGuido)
 
-![[Twitter Follow](https://img.shields.io/twitter/follow/AlxGuido)](https://twitter.com/AlxGuido)
+[[Twitter Follow](https://img.shields.io/twitter/follow/AlxGuido)](https://twitter.com/AlxGuido)
 
 
 ## Experiencia profesional
