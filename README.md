@@ -6,8 +6,8 @@ Me enfoco en entregar resultados comerciales clave y adaptarme rápidamente a nu
 ### Universidad Nacional Autónoma de México </br>
 Matemáticas Aplicadas y Computación
 </br>
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/twitter/follow/AlxGuido
+(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+(https://img.shields.io/twitter/follow/AlxGuido)
 
 
 ## Experiencia profesional
