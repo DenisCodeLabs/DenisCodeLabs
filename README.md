@@ -9,8 +9,8 @@ Banner
 [![Twitter Follow](https://img.shields.io/badge/AlxGuido-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AlxGuido)
 [![Youtube](https://img.shields.io/badge/Suscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCadbSxLMjGApOHCK7YeFXug)
 
-Lenguajes:		Java, JS, Python, SQL </br>
-Tecnologías:  Weblogic, Linux, 
+<b>Lenguajes:</b>		Java, JS, Python, SQL </br>
+<b>Tecnologías:</b>  Weblogic, Linux, 
 
 
 </br>
