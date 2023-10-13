@@ -10,7 +10,7 @@ Banner
 [![Youtube](https://img.shields.io/badge/Suscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCadbSxLMjGApOHCK7YeFXug)
 
 Mi objetivo es combinar la precisión matemática con la creatividad tecnológica para resolver desafíos complejos y crear soluciones innovadoras. <br></br>
-He colaborado en un traductor de Lenguas Originarias con Deep Learning en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, trabajo en el Sector del desarrollo Backend aplicando mis habilidades y conocimientos para crear soluciones </br></br></br>
+He colaborado en un traductor de Lenguas Originarias con Deep Learning en el <b>Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas</b>, trabajo en el Sector del desarrollo Backend aplicando mis habilidades y conocimientos para crear soluciones </br></br></br>
 <b>Lenguajes:</b>		Java, JS, Python, SQL </br>
 <b>Tecnologías:</b>  Weblogic, Linux. 
 
