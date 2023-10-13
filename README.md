@@ -1,5 +1,5 @@
 # Alexander Guido
-
+Soy un Matemático Aplicado y Científico en Computación con una gran pasión por los algoritmos y el desarrollo de software
 
 
 ## Educación
