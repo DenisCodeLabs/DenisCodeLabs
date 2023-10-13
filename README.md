@@ -9,25 +9,11 @@ Banner
 [![Twitter Follow](https://img.shields.io/badge/AlxGuido-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AlxGuido)
 [![Youtube](https://img.shields.io/badge/Suscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCadbSxLMjGApOHCK7YeFXug)
 
+Mi objetivo es combinar la precisión matemática con la creatividad tecnológica para resolver desafíos complejos y crear soluciones innovadoras. <br>
+He colaborado en un traductor de Lenguas Originarias con Deep Learning en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, trabajo en el Sector del desarrollo Backend aplicando mis habilidades y conocimientos para crear soluciones </br>
 <b>Lenguajes:</b>		Java, JS, Python, SQL </br>
-<b>Tecnologías:</b>  Weblogic, Linux, 
+<b>Tecnologías:</b>  Weblogic, Linux. 
 
 
 </br>
 Banner (Algoritmos)
-
-## Experiencia profesional
-### Sye Software &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 2022 – Actual </br>
-Cloud Engineer – Data Engineer	</br>
-Tecnologías:  Azure, PySpark, Docker, Kubernetes, SQL. </br></br>
-Evaluación y migración de sistemas y bases de datos locales a Microsoft Azure Cloud. Asesoramiento a clientes en servicios de almacenamiento y configuración de procesos de red y seguridad.
-
-### Instituto de investigaciones en matemáticas aplicadas y en sistemas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sept 2021 – May 2022 </br>
-Software Intern – Deep Learning Team	</br>
-Tecnologias: Python, Docker, SSH, bash Script, Git, Tensorflow, Hadoop </br></br>
-Colaborador del proyecto Traductor automático de lenguas originarias con deep learning, Diseñé algoritmos de optimización y escalabilidad con Hadoop para el entrenamiento de modelos supervisados, administré la instalación de Contenedores NVIDIA en servidores con máquinas Linux usando el protocolo SSH para conexiones y entrenamientos remotos.
-
-
-
-
-
