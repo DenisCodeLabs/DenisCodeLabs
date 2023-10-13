@@ -3,7 +3,7 @@ Soy Matemático Aplicado y Científico en Computación con una gran pasión por 
 
 
 
-Banner
+Banner (principal)
 </br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alxguido/) 
 [![Twitter Follow](https://img.shields.io/badge/AlxGuido-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AlxGuido)
@@ -17,3 +17,7 @@ He colaborado en un traductor de Lenguas Originarias con Deep Learning en el <b>
 
 </br>
 Banner (Algoritmos)
+</br>
+Banner (IA)
+</br>
+Banner (Proyectos)
