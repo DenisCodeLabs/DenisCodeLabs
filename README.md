@@ -1,5 +1,5 @@
 # Alexander Guido
-Me enfoco en entregar resultados comerciales clave y adaptarme rápidamente a nuevos aprendizajes
+
 
 
 ## Educación
