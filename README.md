@@ -4,6 +4,7 @@ Soy Matemático Aplicado y Científico en Computación con una gran pasión por 
 
 
 Banner (principal)
+![](https://github.com/AlexGuido/AlexGuido/blob/main/BannerLinkedin.png)
 </br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alxguido/) 
 [![Twitter Follow](https://img.shields.io/badge/AlxGuido-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AlxGuido)
