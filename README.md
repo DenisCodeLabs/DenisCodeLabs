@@ -21,10 +21,8 @@ He colaborado en un traductor de Lenguas Originarias con Deep Learning en el <b>
 [![JS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.com/)
 
 
-</br>
 <!--Banner (Algoritmos)-->
 ![](https://github.com/AlexGuido/AlexGuido/blob/main/Algoritmos.png)
-![](https://github.com/AlexGuido/AlexGuido/blob/main/BannerMain.png)
 </br>
 <!--Banner (HackerRank)-->
 ![](https://github.com/AlexGuido/AlexGuido/blob/main/hackerRank.png)
