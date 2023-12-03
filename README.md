@@ -15,6 +15,7 @@ He colaborado en un traductor de Lenguas Originarias con Deep Learning en el <b>
 <strong>Proyectos Backend:</strong> 
 </br>
 <a href="https://github.com/AlexGuido/inventarioPhp">Sistema de inventario en PHP</a>
+</br>
 <a href="https://github.com/AlexGuido/Api_Rest">APi Rest en JAVA</a>
 
 
