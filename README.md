@@ -34,5 +34,5 @@ Abordamos problemas computacionales complejos descritos en el libro de Thomas H.
 
 
 <!--Banner (HackerRank)-->
-![](https://github.com/AlexGuido/AlexGuido/blob/main/hackerRankBest.png)
+![](https://github.com/AlexGuido/AlexGuido/blob/main/HR.png)
 soluciones a los desafíos de programación de HackerRank
