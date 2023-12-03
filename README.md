@@ -27,5 +27,5 @@ He colaborado en un traductor de Lenguas Originarias con Deep Learning en el <b>
 
 
 <!--Banner (HackerRank)-->
-![](https://github.com/AlexGuido/AlexGuido/blob/main/hackerRankBest.png)
+[![HackerRank](https://github.com/AlexGuido/AlexGuido/blob/main/hackerRankBest.png)](https://www.hackerrank.com/profile/alexanderguido)
 </br>
