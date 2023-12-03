@@ -14,7 +14,7 @@
 He colaborado en un traductor de Lenguas Originarias con Deep Learning en el <b>Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas</b>, trabajo en el Sector del desarrollo Backend aplicando mis habilidades y conocimientos para crear soluciones </br></br>
 <strong>Proyectos Backend:</strong> 
 
-</br>
+
 <strong>Tecnologías:</strong> 
 </br></br>
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
