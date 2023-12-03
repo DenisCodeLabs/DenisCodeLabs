@@ -12,7 +12,7 @@
 
 <!--Mi objetivo es combinar la precisión matemática con la creatividad tecnológica para resolver desafíos complejos y crear soluciones. <br></br>-->
 He colaborado en un traductor de Lenguas Originarias con Deep Learning en el <b>Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas</b>, trabajo en el Sector del desarrollo Backend aplicando mis habilidades y conocimientos para crear soluciones </br></br>
-<h3>Proyectos Backend</h3>
+###Proyectos Backend
 
 </br>
 <strong>Tecnologías:</strong> 
