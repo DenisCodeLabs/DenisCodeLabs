@@ -1,7 +1,7 @@
 # Alexander Guido
 <!--Soy Matemático Aplicado y Científico en Computación con una gran pasión por los algoritmos y el desarrollo de software-->
 
-
+Soy desarrollador Backend, aplicando mis habilidades y conocimientos para crear soluciones </br></br>
 
 <!--Banner (principal)-->
 ![](https://github.com/AlexGuido/AlexGuido/blob/main/BannerMain.png)
@@ -11,10 +11,8 @@
 [![Youtube](https://img.shields.io/badge/Suscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCadbSxLMjGApOHCK7YeFXug)
 
 <!--Mi objetivo es combinar la precisión matemática con la creatividad tecnológica para resolver desafíos complejos y crear soluciones. <br></br>-->
-He colaborado en un traductor de Lenguas Originarias con Deep Learning en el <b>Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas</b>, trabajo en el Sector del desarrollo Backend aplicando mis habilidades y conocimientos para crear soluciones </br></br>
-<strong>Proyectos Backend:</strong> 
-</br>
-<a href="https://github.com/AlexGuido/inventarioPhp">Sistema de inventario en PHP</a>
+
+# Proyectos Backend:
 </br>
 <a href="https://github.com/AlexGuido/Api_Rest">APi Rest en JAVA</a>
 
