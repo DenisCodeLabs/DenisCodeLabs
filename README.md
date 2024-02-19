@@ -21,8 +21,12 @@ Tecnologías: JS, CSS, HTML, React, Java y PHP. <br>
 [![comercial.png](https://i.postimg.cc/c4NzJ2bq/comercial.png)](https://postimg.cc/rzQjnnTg)
 
 
+## Control de Clientes (CRUD Frontend/Backend)
+Tecnologías: Java 17, Maven, Glassfish, MySQL, Bootstrap 5.
 
+Esta aplicación ofrece una interfaz frontal que muestra la lista de clientes proveniente de una BD en MySQL. Proporciona detalles como el saldo total de todos los clientes y la cantidad total de clientes registrados.
 
+[![Backend1.png](https://i.postimg.cc/13Fxj341/Backend1.png)](https://postimg.cc/sM30BypT)
 
 <a href="https://github.com/AlexGuido/Api_Rest">APi Rest en JAVA</a>
 
