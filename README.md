@@ -1,7 +1,6 @@
 # Alexander Guido
-<!--Soy Matemático Aplicado y Científico en Computación con una gran pasión por los algoritmos y el desarrollo de software-->
 
-Soy desarrollador Backend, aplicando mis habilidades y conocimientos para crear soluciones </br></br>
+Soy desarrollador Backend, aplico mis habilidades y conocimientos para crear soluciones </br></br>
 
 <!--Banner (principal)-->
 ![](https://github.com/AlexGuido/AlexGuido/blob/main/BannerMain.png)
@@ -10,10 +9,21 @@ Soy desarrollador Backend, aplicando mis habilidades y conocimientos para crear 
 [![Twitter Follow](https://img.shields.io/badge/AlxGuido-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AlxGuido)
 [![Youtube](https://img.shields.io/badge/Suscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCadbSxLMjGApOHCK7YeFXug)
 
-<!--Mi objetivo es combinar la precisión matemática con la creatividad tecnológica para resolver desafíos complejos y crear soluciones. <br></br>-->
-
 # Proyectos Backend:
-</br>
+
+## Renta de Autos (WebApp)
+
+Demo: https://alexguido.github.io/PlatinoWeb/ <br>
+Logré simplificar el proceso de alquiler priorizando la usabilidad para que la reserva de autos sea fácil y rápida. <br> <br>
+
+Tecnologías: JS, CSS, HTML, React, Java y PHP. <br>
+
+[![comercial.png](https://i.postimg.cc/c4NzJ2bq/comercial.png)](https://postimg.cc/rzQjnnTg)
+
+
+
+
+
 <a href="https://github.com/AlexGuido/Api_Rest">APi Rest en JAVA</a>
 
 
