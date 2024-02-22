@@ -28,18 +28,14 @@ Esta aplicación ofrece una interfaz frontal que muestra la lista de clientes pr
 
 [![Backend1.png](https://i.postimg.cc/13Fxj341/Backend1.png)](https://postimg.cc/sM30BypT)
 
+## Api Rest en Java
+Tecnologías: Java, Spring, Hibernate.
+Ejemplo de Api Rest en Java Este proyecto implementa una API REST básica utilizando Java y Spring para realizar CRUD en BD. Se utiliza JDBC y JPA
 <a href="https://github.com/AlexGuido/Api_Rest">APi Rest en JAVA</a>
 
 
 
-<strong>Tecnologías:</strong> 
-</br></br>
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JS](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/) 
-[![JS](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/)
-[![JS](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.com/)
-
-
+## Otros
 <!--Banner (Algoritmos)-->
 ![](https://github.com/AlexGuido/AlexGuido/blob/main/AlgoritmosBest.png)
 Abordamos problemas computacionales complejos descritos en el libro de Thomas H. Cormen. 
