@@ -1,7 +1,7 @@
 # Alexander Guido
 
 Soy desarrollador Backend, aplico mis habilidades y conocimientos para crear soluciones </br></br>
-
+Tecnologías: Java Spring Boot SQL
 <!--Banner (principal)-->
 ![](https://github.com/AlexGuido/AlexGuido/blob/main/BannerMain.png)
 </br>
