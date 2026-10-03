@@ -26,8 +26,6 @@ Tecnologías: Java 17, Maven, Glassfish, MySQL, Bootstrap 5.
 
 Esta aplicación ofrece una interfaz frontal que muestra la lista de clientes proveniente de una BD en MySQL. Proporciona detalles como el saldo total de todos los clientes y la cantidad total de clientes registrados.
 
-[![Backend1.png](https://i.postimg.cc/13Fxj341/Backend1.png)](https://postimg.cc/sM30BypT)
-
 ## Api Rest en Java
 Tecnologías: Java, Spring, Hibernate.
 Ejemplo de Api Rest en Java Este proyecto implementa una API REST básica utilizando Java y Spring para realizar CRUD en BD. Se utiliza JDBC y JPA
